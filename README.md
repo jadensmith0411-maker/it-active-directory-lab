@@ -113,5 +113,5 @@ Users were assigned to appropriate OUs for organization and management.
 ---
 
 ## Author
-- Name: [Your Name]
+- Name: Jaden Smith
 - Focus: IT / Systems / Active Directory / Networking
