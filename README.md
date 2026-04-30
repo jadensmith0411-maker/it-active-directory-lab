@@ -39,7 +39,7 @@ This allows:
 ## Active Directory Setup
 
 ### Domain Configuration
-- Domain Name: (example: yourdomain.local)
+- Domain Name: (example: mydomain.com)
 - Server promoted to Domain Controller
 - DNS role installed and integrated with AD DS
 
@@ -47,7 +47,7 @@ This allows:
 
 ### Organizational Units (OUs)
 Created basic structure:
-- Users
+- Employees
 - Computers
 - Admins (if applicable)
 
@@ -56,10 +56,7 @@ Created basic structure:
 ### User Accounts
 Created multiple domain users:
 - Test User 1
-- Test User 2
 - Admin User
-
-Users were assigned to appropriate OUs for organization and management.
 
 ---
 
@@ -99,16 +96,6 @@ Users were assigned to appropriate OUs for organization and management.
 - Importance of DNS in Active Directory environments
 - How virtual networking impacts domain communication
 - Troubleshooting domain join and connectivity issues
-
----
-
-## Future Improvements
-
-- Add Group Policy Objects (GPOs)
-- Implement file sharing permissions across users
-- Create multiple client machines
-- Add PowerShell automation for user creation
-- Simulate real enterprise role-based access control
 
 ---
 
